@@ -1,7 +1,7 @@
 nextReading 89 12
-nextReading 123 134
+nextReading 123 124
 prevReading 12 89
-prevReading 134 123
+prevReading 124 123
 isCorrectReading 1234 true
 isCorrectReading 1253 False
 smallestReading 4 1234
